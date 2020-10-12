@@ -1,0 +1,28 @@
+F:\profession\Youtube Channel\Dotnet Mob\Windows Application\EF CRUD\Project\EFCRUDAPP\EFCRUDAPP\bin\Debug\EFCRUDAPP.exe.config
+F:\profession\Youtube Channel\Dotnet Mob\Windows Application\EF CRUD\Project\EFCRUDAPP\EFCRUDAPP\bin\Debug\EFCRUDAPP.exe
+F:\profession\Youtube Channel\Dotnet Mob\Windows Application\EF CRUD\Project\EFCRUDAPP\EFCRUDAPP\bin\Debug\EFCRUDAPP.pdb
+F:\profession\Youtube Channel\Dotnet Mob\Windows Application\EF CRUD\Project\EFCRUDAPP\EFCRUDAPP\obj\Debug\EFCRUDAPP.csprojResolveAssemblyReference.cache
+F:\profession\Youtube Channel\Dotnet Mob\Windows Application\EF CRUD\Project\EFCRUDAPP\EFCRUDAPP\obj\Debug\EFCRUDAPP.Form1.resources
+F:\profession\Youtube Channel\Dotnet Mob\Windows Application\EF CRUD\Project\EFCRUDAPP\EFCRUDAPP\obj\Debug\EFCRUDAPP.Properties.Resources.resources
+F:\profession\Youtube Channel\Dotnet Mob\Windows Application\EF CRUD\Project\EFCRUDAPP\EFCRUDAPP\obj\Debug\EFCRUDAPP.csproj.GenerateResource.Cache
+F:\profession\Youtube Channel\Dotnet Mob\Windows Application\EF CRUD\Project\EFCRUDAPP\EFCRUDAPP\obj\Debug\EFCRUDAPP.exe
+F:\profession\Youtube Channel\Dotnet Mob\Windows Application\EF CRUD\Project\EFCRUDAPP\EFCRUDAPP\obj\Debug\EFCRUDAPP.pdb
+F:\profession\Youtube Channel\Dotnet Mob\Windows Application\EF CRUD\Project\EFCRUDAPP\EFCRUDAPP\bin\Debug\EntityFramework.dll
+F:\profession\Youtube Channel\Dotnet Mob\Windows Application\EF CRUD\Project\EFCRUDAPP\EFCRUDAPP\bin\Debug\EntityFramework.SqlServer.dll
+F:\profession\Youtube Channel\Dotnet Mob\Windows Application\EF CRUD\Project\EFCRUDAPP\EFCRUDAPP\bin\Debug\EntityFramework.xml
+F:\profession\Youtube Channel\Dotnet Mob\Windows Application\EF CRUD\Project\EFCRUDAPP\EFCRUDAPP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Robiul\Downloads\C# EF - Insert Update Delete\EFCRUDAPP\EFCRUDAPP\bin\Debug\EFCRUDAPP.exe.config
+C:\Users\Robiul\Downloads\C# EF - Insert Update Delete\EFCRUDAPP\EFCRUDAPP\bin\Debug\EFCRUDAPP.exe
+C:\Users\Robiul\Downloads\C# EF - Insert Update Delete\EFCRUDAPP\EFCRUDAPP\bin\Debug\EFCRUDAPP.pdb
+C:\Users\Robiul\Downloads\C# EF - Insert Update Delete\EFCRUDAPP\EFCRUDAPP\bin\Debug\EntityFramework.dll
+C:\Users\Robiul\Downloads\C# EF - Insert Update Delete\EFCRUDAPP\EFCRUDAPP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Robiul\Downloads\C# EF - Insert Update Delete\EFCRUDAPP\EFCRUDAPP\bin\Debug\EntityFramework.xml
+C:\Users\Robiul\Downloads\C# EF - Insert Update Delete\EFCRUDAPP\EFCRUDAPP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Robiul\Downloads\C# EF - Insert Update Delete\EFCRUDAPP\EFCRUDAPP\obj\Debug\EFCRUDAPP.csprojAssemblyReference.cache
+C:\Users\Robiul\Downloads\C# EF - Insert Update Delete\EFCRUDAPP\EFCRUDAPP\obj\Debug\EFCRUDAPP.Form1.resources
+C:\Users\Robiul\Downloads\C# EF - Insert Update Delete\EFCRUDAPP\EFCRUDAPP\obj\Debug\EFCRUDAPP.Properties.Resources.resources
+C:\Users\Robiul\Downloads\C# EF - Insert Update Delete\EFCRUDAPP\EFCRUDAPP\obj\Debug\EFCRUDAPP.csproj.GenerateResource.cache
+C:\Users\Robiul\Downloads\C# EF - Insert Update Delete\EFCRUDAPP\EFCRUDAPP\obj\Debug\EFCRUDAPP.csproj.CoreCompileInputs.cache
+C:\Users\Robiul\Downloads\C# EF - Insert Update Delete\EFCRUDAPP\EFCRUDAPP\obj\Debug\EFCRUDAPP.csproj.CopyComplete
+C:\Users\Robiul\Downloads\C# EF - Insert Update Delete\EFCRUDAPP\EFCRUDAPP\obj\Debug\EFCRUDAPP.exe
+C:\Users\Robiul\Downloads\C# EF - Insert Update Delete\EFCRUDAPP\EFCRUDAPP\obj\Debug\EFCRUDAPP.pdb
